@@ -5,7 +5,7 @@ import 'custom_box.dart';
 List<ModelClass> list = [
   ModelClass(
     name: "Prince",
-    surName: "Dhameliya",
+    surName: "Donga",
     fatherName: "Sureshbhai",
     hobby: "Code",
   ),
